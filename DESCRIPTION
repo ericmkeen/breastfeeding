@@ -1,0 +1,26 @@
+Package: breastfeeding
+Title: Monitor the ins (and outs) of your newborn
+Version: 0.0.0.9000
+Authors@R: 
+    person("Eric", "Keen", , "ericmkeen@gmail.com", role = c("aut", "cre"))
+Description: A Shiny app for logging and visualizing breasfeeding sessions and dirty diapers.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    devtools,
+    dplyr,
+    DT,
+    lubridate,
+    magrittr,
+    plyr,
+    readr,
+    rintrojs,
+    shiny,
+    shinydashboard,
+    shinyjs,
+    shinythemes,
+    shinyWidgets,
+    stringr,
+    usethis
