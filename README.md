@@ -2,6 +2,9 @@
 Monitor the ins and outs of your newborn
 
 
+https://user-images.githubusercontent.com/10263731/168850814-f1bed872-1e9e-4e46-8410-87e5cca82862.mov
+
+
 Install & load the package:
 
 ```
